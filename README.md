@@ -10,7 +10,7 @@ This is an attempt to replicate the results given by [morfessoRED](https://githu
 Since I don't know anything about Maori language and the data used in the morfessoRED paper are not avaliable, to try the code given in the paper different words with and without reduplication are used from this sources:
 * [Reduplication in Maori](https://lisatravis2012.wordpress.com/2017/10/19/reduplication-in-maori/#:~:text=Maori%20also%20uses%20reduplication%20as,will%20further%20extend%20the%20meaning.)
 * [Maori, Wikipedia](https://mi.wikipedia.org/wiki/M%C4%81ori)
-* [An Analysis of Maori Reduplication](chrome-extension://efaidnbmnnnibpcajpcglclefindmkaj/https://roa.rutgers.edu/files/133-0496/133-0496-0-1.PDF)
+* [An Analysis of Maori Reduplication](http://roa.rutgers.edu/files/133-0496/133-0496-0-1.PDF)
 * [High frequency word lists, The Reo Maori](https://tereomaori.tki.org.nz/Teacher-tools/Te-Whakaipurangi-Rauemi/High-frequency-word-lists#:~:text=Two%20common%20prefixes%20in%20M%C4%81ori,suffix%20and%20the%20nominal%20suffix.&text=Prefixes%20and%20suffixes%20add%20elements%20of%20meaning%20to%20a%20word.)
 * And the paper itself: [link](https://aclanthology.org/2022.sigmorphon-1.2/)
 
