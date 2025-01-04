@@ -1,0 +1,79 @@
+# Output from Morfessor Baseline 2.0.6, 2025-01-04 16:45:20
+1 RED
+1 a
+1 a + na
+1 a + nga
+1 a + o
+1 a + re
+1 a + re + nga
+1 ha + e + re
+1 ha + ra
+1 hea
+1 hei
+1 hi + ma
+1 ho + a + ta
+1 ho + ko
+1 hu + ru
+1 hu + ti
+1 hā
+1 i + a
+1 i + a + o
+1 ka
+1 ka + i
+1 ka + mo
+1 ka + ra
+1 ke + ke
+1 ki + mi
+1 ki + mo
+1 ki + na + ki
+1 ki + ri
+1 ki + wi
+1 ko
+1 ko + i
+1 ku + ku
+1 ku + ra
+1 kā
+1 kō + re
+1 ma
+1 ma + hi
+1 ma + te
+1 na
+1 nei
+1 nga
+1 o + ho
+1 pa + e
+1 pa + hi
+1 pa + i
+1 pa + ka + ru
+1 pa + ki
+1 pa + ngo
+1 pa + pa
+1 pa + re
+1 pi + ri
+1 pohane
+1 pu
+1 pu + hi
+1 pu + ru
+1 pū + ta
+1 ra + hi
+1 re + re
+1 ri + nga
+1 ri + ta
+1 ro
+1 ta + ka + i
+1 ta + ke
+1 ta + o
+1 ta + pi
+1 ta + ta
+1 ti
+1 tā + ka + ro
+1 wa + e
+1 wa + na
+1 wa + nga
+1 we + ra
+1 wha
+1 wha + i
+1 wha + ka
+1 whe + ro
+1 wi + ri
+1 ā
